@@ -4,6 +4,8 @@
 **bhoomi1-6/bhoomi1-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- I am a Masters student in University of Warwick with experience building full stack applications at the intersection of 
+integrating AI systems to solve real-world problems. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
